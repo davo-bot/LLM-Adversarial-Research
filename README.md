@@ -1,4 +1,4 @@
-# 🤖 LLM Adversarial Research
+no# 🤖 LLM Adversarial Research
 
 > **Can obscured text survive multi-objective cognitive load in an LLM context window — and what happens to safety reasoning when it does?**
 
@@ -65,6 +65,7 @@ The model begins weighing whether sharing system prompt content is appropriate. 
 **Stage 2: Active rationalisation**
 
 [Screenshot 2] ![IMG_1380](https://github.com/user-attachments/assets/7a97bb1d-c4fc-4abb-a10c-85f8a376e871) 
+
 
 The model starts systematically eliminating its own objections. It checks whether sharing would violate a rule (no explicit rule found), whether it raises a safety concern (safety-relevant sections describe general approaches, not specific exploits)
 
