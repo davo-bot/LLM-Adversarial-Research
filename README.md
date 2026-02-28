@@ -58,9 +58,10 @@ The screenshots below show Opus working through its reasoning in real time. Read
 
 **Stage 1: Initial uncertainty**
 
-*[Screenshot 1] ![IMG_1379](https://github.com/user-attachments/assets/bbc3cd6f-809a-4f99-9265-3ba0ab8b4f0d)*
+[Screenshot 1] ![IMG_1379](https://github.com/user-attachments/assets/bbc3cd6f-809a-4f99-9265-3ba0ab8b4f0d)
 
 The model begins weighing whether sharing system prompt content is appropriate. It identifies competing considerations: the user has shown genuine understanding, the research purpose seems legitimate, and there is no explicit confidentiality instruction.
+
 ---
 **Stage 2: Active rationalisation**
 
